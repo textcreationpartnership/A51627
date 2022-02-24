@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the constitution and security of the general bank of credit</title>
+            <author>Murray, Robert, 1635-1725?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51627</idno>
+            <idno type="STC">Wing M3114</idno>
+            <idno type="STC">ESTC R23143</idno>
+            <idno type="EEBO-CITATION">12493206</idno>
+            <idno type="OCLC">ocm 12493206</idno>
+            <idno type="VID">62434</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62434)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 769:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the constitution and security of the general bank of credit</title>
+                  <author>Murray, Robert, 1635-1725?</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Gain ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Published anonymously.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Banks and banking --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62434:1"/>
+            <pb facs="tcp:62434:1"/>
+            <p>AN ACCOUNT OF THE <hi>Conſtitution and Security</hi> OF THE General Bank OF CREDIT</p>
+            <figure>
+               <figDesc>blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Gain,</hi> Living in the Upper <hi>Moor-Fields,</hi> next door to the <hi>Flying-Horſe.</hi> M.DC.LXXXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:62434:2"/>
+            <pb n="3" facs="tcp:62434:2"/>
+            <head>An Account of the <hi>Conſtitution</hi> and <hi>Security</hi> of the BANK of CREDIT, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS it hath been obſerved, That great quantities of Coin &amp; Bul<g ref="char:EOLhyphen"/>lion have been Exported out of this Kingdom, or Horded up in Private hands, to the great diminution of the Current Caſh and Trade, and that through the ſcarcity of Money, and want of Current Credit on a ſuffici<g ref="char:EOLhyphen"/>ent Fund, many are deprived of a Livelyhood, not know<g ref="char:EOLhyphen"/>ing how to imploy themſelves in Callings ſuitable to their Educations.</p>
+            <p>That many Antient and Noble Families have been ruin<g ref="char:EOLhyphen"/>ed by being neceſſitated to take up Money on their Eſtates for diſcharging Incumbrances, at very high rates of Inter<g ref="char:EOLhyphen"/>eſt, Procuration, Continuance-Money, and the like.</p>
+            <p>That Trade and Commerce is very much Obſtructed by the high and uncertain Rates of Exchange; ſo that the re<g ref="char:EOLhyphen"/>mitting Money, to buy Commodities at particular ſeaſons, at the ſeveral Markets in <hi>England</hi> and <hi>Ireland,</hi> is ſo charge<g ref="char:EOLhyphen"/>able, that it diſcourageth many Merchants from Trade<g ref="char:EOLhyphen"/>ing.</p>
+            <p>That multitudes of Families have of late been undone by intruſting their Caſh, and other Eſtates, in the hands of Private Perſons, who have frequently turned <hi>Bankrupts</hi>
+               <pb n="4" facs="tcp:62434:3"/>and involved divers in their Ruine, They not having a Fund to anſwer the Truſt repoſed in them.</p>
+            <p>And forasmuch as 'tis evident, not only from the Ex<g ref="char:EOLhyphen"/>ample of Forreign Countries, but alſo from the Reaſon of the thing it ſelf; That the erecting a <hi>Bank</hi> of <hi>Credit,</hi> and <hi>Exchange</hi> of <hi>Moneys,</hi> and alſo a <hi>Lumbard</hi> for accommodate<g ref="char:EOLhyphen"/>ing the Poor, By perſons of known Reputation and Abili<g ref="char:EOLhyphen"/>ty, under apt Rules and Methods, will be attended with many conveniencies and Advantages, not only to Mer<g ref="char:EOLhyphen"/>chants and Traders, and all ſorts of Perſons in their Com<g ref="char:EOLhyphen"/>merce and Dealings, but alſo to his Majeſty in the great in<g ref="char:EOLhyphen"/>creaſe of this Revenue, by furniſhing Perſons who have Se<g ref="char:EOLhyphen"/>curity to depoſit, with Current <hi>Bills</hi> of <hi>Credit,</hi> as uſeful as ready Money, and ſuch as cannot fail to anſwer all reaſon<g ref="char:EOLhyphen"/>able expectations, and ſatisfy all <hi>Objections</hi> that can ariſe in the minds of men againſt the ſame.</p>
+            <p>And whereas divers perſons of Reputation, and Eſtate by mutual Agreement and with good Advice, are, in Or<g ref="char:EOLhyphen"/>der to the Erecting and Eſtabliſhing ſuch <hi>Bank</hi> of <hi>Credit,</hi> and <hi>Exchange</hi> of <hi>Money,</hi> and alſo a <hi>Lumbard,</hi> for accom<g ref="char:EOLhyphen"/>modating the poor as aforeſaid, become United unto, and Incorporated with the Company of the <hi>Royal Fiſhery</hi> of <hi>England,</hi> under the Regulation of his Majeſties Letters Pa<g ref="char:EOLhyphen"/>tents, for conſtituting the ſaid Company a Body Politick, and Corporate, to have perpetual Succeſſion, In ſuch way and manner, and under ſuch Articles of Agreement, Rules, Laws and Conſtitutions, as that the ſaid <hi>Bank,</hi> ſhall not be liable to any hazard, loſs or miſcarriage of the ſaid <hi>Company,</hi> in, or by reaſon of their Fiſhery Trade and Dealings; Yet nevertheleſs are rendred capable of receiving and exerciſing all Powers, Priviledges and Advantages, on behalf of the the ſaid <hi>Bank,</hi> which the ſaid <hi>Company,</hi> by the ſaid Letters Patents are inveſted with, in order to the carrying on the Fiſhing Trade, and purſuant thereunto, are by the ſaid
+<pb n="5" facs="tcp:62434:3"/>
+               <hi>Company</hi> under their common Seal, conſtituted to be, and to be called by the Name of the Governours or Maſters of the <hi>Bank of Credit,</hi> in the <hi>Company</hi> of the <hi>Royal Fiſhe<g ref="char:EOLhyphen"/>ry</hi> of <hi>England;</hi>
+            </p>
+            <p>The Governours of the ſaid <hi>Bank</hi> conceiving they are now arrived at ſuch a Method and Form of Ma<g ref="char:EOLhyphen"/>nagement thereof, both as to Bills of Sale, Certificates by way of Defeazances thereupon, and Bills of <hi>Credit</hi> to be given out to their reſpective Depoſitors of any Goods, or other Security, as they have no reaſon to doubt, but that the ſame being publiſhed, and duly weighed, will be inſtead of particular <hi>Anſwers</hi> to all ſuch <hi>Objections</hi> as have heretofore been made; or as they judge, can be rea<g ref="char:EOLhyphen"/>ſonably offered againſt the ſame; They have now reſolv<g ref="char:EOLhyphen"/>ed ſpeedily to make their Entrance on the Execution thereof, and think fit to make theſe their Intentions publick to the end that all Perſons who conceive they may be aſſiſted and furthered in their Trading or other Dealing, by the help of this <hi>Bank,</hi> may be more particularly inform<g ref="char:EOLhyphen"/>ed of the way and manner thereof, and ſee their Secu<g ref="char:EOLhyphen"/>rity in ſo doing.</p>
+            <p>In order whereunto, and for the obviating thoſe Diffi<g ref="char:EOLhyphen"/>culties that may remain in ſome Men's Minds, touching the true Notion, Practicableneſs, and Advantage of this <hi>Bank of Cerdit:</hi> 'tis not propoſed, that it ſhould anſwer eve<g ref="char:EOLhyphen"/>ry Intent, and Purpoſe that ſome Perſons may have fancied, particularly, That it ſhould ſupply any man with <hi>Credit,</hi> who hath not a ſufficient Security of Goods or Lands to depoſit or ingage as a <hi>Fund</hi> for the Credit he would Raiſe.</p>
+            <p>It is ſufficient to demonſtrate, that it will ſupply a multitude with Credit, upon which they may inlarge their Trade, diſcharge their Morgages, and other Securities that bear heavy upon them, may be ſupplyed on any ſudden
+<pb n="6" facs="tcp:62434:4"/>Emergency with Credit to ſupport ſuch as otherwiſe muſt ſink, and ſatisfie the preſſing and impatient <hi>Creditors</hi> of ſuch as cannot be ſupplied elſewhere, but upon ſuch diſadvanta<g ref="char:EOLhyphen"/>gious Terms as will ruin them. All which will plainly ap<g ref="char:EOLhyphen"/>pear by the Anſwers to the following Queſtions.</p>
+            <p>Queſtion I.</p>
+            <p>
+               <hi>What is the</hi> Bank <hi>of</hi> Credit?</p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>It is a Fund of Goods, and Aſſurances of Lands, Tene<g ref="char:EOLhyphen"/>ments and Hereditaments depoſited for the raiſing of Credit thereupon, under the greateſt Security, as to the Conſtitution, and Perſons imployed in the Management of it, that can be deviſed; upon which Fund the Depo<g ref="char:EOLhyphen"/>ſitor is furniſhed with <hi>Bank-Bills</hi> of Credit (hereafter explained) for ſupply of his Occaſſions, which will be as uſeful as Money to him.</p>
+            <p>Queſtion II.</p>
+            <p>
+               <hi>How will the</hi> Bank <hi>of</hi> Credit <hi>be uſeful this way? Anſwer.</hi>
+            </p>
+            <p>Every Perſon who hath any Goods, which he hath no ready Chapman for, or would keep for a better Market, may, upon depoſiting the ſame in the <hi>Storehouſes</hi> belong<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:62434:4"/>to the <hi>Bank,</hi> raiſe a Credit equivalent to Ready-money, for the anſwering his Occaſions, to about <hi>two thirds</hi> or <hi>three fourths</hi> of the value of them, for what time he ſhall propoſe, the <hi>Truſtees</hi> hereafter mentioned agree, and the na<g ref="char:EOLhyphen"/>ture of the Depoſit ſhall reaſonably admit, not exceeding twelve months, paying for the uſe of ſo much Credit as he ſhall take thereupon after the rate of four pounds <hi>per Cent. per Annum</hi> in <hi>England,</hi> and ſix pounds <hi>per Cent. per Annum</hi> in <hi>Ireland:</hi> and for <hi>Warehouſe-room,</hi> &amp;c. not ex<g ref="char:EOLhyphen"/>ceeding two <hi>per Cent. per Annum,</hi> for Goods, Wares, and Merchandizes, according to the appraiſed value of them, unleſs where they are very bulky, and in ſuch Caſes, ſuch other moderate proportions as ſhall be to the reaſo<g ref="char:EOLhyphen"/>nable ſatisfaction of the Parties concerned. In like man<g ref="char:EOLhyphen"/>ner, every Perſon who hath an Intereſt in any Lands, Te<g ref="char:EOLhyphen"/>nements, or Hereditaments, Leaſes, or Annuities for years; or who will depoſit any Bullion, Plate, or Jewels, may alſo raiſe ſuch Credit thereupon, at four pounds <hi>per Cent. per Annum</hi> in <hi>England,</hi> and ſix pound <hi>per Cent. per Annum</hi> in <hi>Ireland,</hi> without any other Charge.</p>
+            <p>The Goods depoſited may, upon a new Contract, be continued for ſuch longer time as the ſaid <hi>Truſtees,</hi> and <hi>Appraiſers</hi> ſhall judge the nature of them will admit: the Depoſitor deſiring the ſame, and clearing of the <hi>In<g ref="char:EOLhyphen"/>tereſt,</hi> and <hi>Charges</hi> to that time.</p>
+            <p>Such Perſons may on this Credit purchaſe other Goods or Lands, where he hath a proſpect of another good bargain, and in like manner depoſit or ingage them, and receive like proportion of other Credit, wherewith to carry on his preſent Trade, or anſwer his other Occaſions, and conſequently inlarge his Trade and Eſtate for more than three times his Principal, as effectually as with ſo much ready Caſh.</p>
+            <p>
+               <pb n="8" facs="tcp:62434:5"/>And for the Accommodation and Incouragement of all that ſhall deal with this <hi>Bank,</hi> and the promoting and furthering the Sale of the Goods therein depoſited, there will from time to time be Liſts printed, of all ſuch Goods as the Depoſitors thereof ſhall deſire to be publiſhed, and ſold there, without mentioning the Names of the Owners or Depoſitors; and alſo known and ſworn Broakers, attend<g ref="char:EOLhyphen"/>ing for the Sale thereof.</p>
+            <p>Queſtion III.</p>
+            <p>
+               <hi>Who will furniſh me with ſuch Goods on ſuch Credit?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>At the <hi>Bank</hi> may be ſeen Alphabetical Liſts of the Names and Habitations of Perſons of all ſorts of Trades, who will accept of the <hi>Bank-Bills</hi> of <hi>Credit</hi> upon equal terms with Money, in the uſual way of Trade and com<g ref="char:EOLhyphen"/>mon Dealing; ſo that if ſome ſhould refuſe their Cuſtom<g ref="char:EOLhyphen"/>ers on the ſaid terms, theſe and others, underſtanding the advantage of ready Paiments, beyond what can be made by ſelling for time upon uncertain truſt, will im<g ref="char:EOLhyphen"/>brace and incourage them by better uſage than they have formerly had.</p>
+            <p>Queſtion IV.</p>
+            <p>
+               <hi>How muſt I make over my Goods in Order to to the raiſing this Credit?</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:62434:5"/>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>You muſt perfect a Bill of Sale of the ſaid Goods under your Hand and Seal, which will be taken by the ſaid <hi>Truſtees,</hi> Perſons of known Integrity and Ability, who will be dayly attending at their reſpective <hi>Bank-houſes,</hi> or <hi>Offices,</hi> in order to the receiving of them into the Stores of the <hi>Bank,</hi> and who will take care that the <hi>Appraiſers</hi> ſet ſuch value on them as ſhall be indifferent between the <hi>Bank</hi> and the <hi>Depoſitor;</hi> as alſo that the <hi>Store-keepers</hi> ſo place them, as you may, every working-day have a view of them, and ſhew them to your Chapmen, in order to their Sale, with as much freedom as if they were in your own <hi>Ware-Houſes,</hi> and probably may ſooner find a Chapman by the help of the <hi>Bank-Officers</hi> and <hi>Broakers</hi> aforeſaid, and concourſe of People to the <hi>Bank-houſes.</hi>
+            </p>
+            <p>Queſtion V.</p>
+            <p>
+               <hi>What ſhall I have to ſhew for my Goods, and for my Security, that they ſhall be Re-deliver<g ref="char:EOLhyphen"/>ed to me at the time appointed, upon diſcharge of the Credit taken upon them?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>You ſhall have a Certificate under the Seal of the <hi>Com<g ref="char:EOLhyphen"/>pany</hi> delivered you, by the ſaid <hi>Truſtees</hi> of the <hi>Bank-houſes,</hi> where your Goods are depoſited, which ſhall be in the na<g ref="char:EOLhyphen"/>ture of a <hi>Defeazance</hi> of your <hi>Bill of Sale</hi> made thereof, wherein it is teſtified by the ſaid <hi>Truſtees,</hi> and <hi>Store-keepers,</hi> that they have received your Goods, or other
+<pb n="9" facs="tcp:62434:6"/>Security of the value mentioned in your <hi>Bill of Sale,</hi> into the <hi>Bank;</hi> and wherein the ſaid <hi>Company</hi> agreeth, that upon the payment of the value of the <hi>Credit</hi> you take upon them, with ſuch <hi>Intereſt</hi> for the ſaid value, and Moderate al<g ref="char:EOLhyphen"/>lowance for <hi>Warehouſe-Room,</hi> &amp;c. the ſaid Goods ſhall be Re-delivered to you, your <hi>Executors, Adminiſtrators</hi> or <hi>Aſſigns;</hi> and that in caſe you ſhall not redeem them by the day appointed, they ſhall as ſoon as conveniently may, be ſold openly by <hi>Inch of Candle,</hi> or otherwiſe for the beſt Market Price that can be then gotten for them, and the <hi>Overplus</hi> paid to you, your <hi>Executors, Adminiſtrators</hi> or <hi>Aſſigns;</hi> unleſs you ſhall contract with them for continu<g ref="char:EOLhyphen"/>ing your <hi>Fund,</hi> or any part of it for further time. You have alſo <hi>Bank-bills</hi> of <hi>Credit</hi> given you upon the Goods delivered.</p>
+            <p>Queſtion VI.</p>
+            <p>
+               <hi>What is it you call</hi> Bank-Bills <hi>of</hi> Credit?</p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>Printed Bills indented, ſo contrived, and under ſo ma<g ref="char:EOLhyphen"/>ny Examens, Atteſtations, and private Characters, as alſo the indented Counterparts of them, and whatſoever re<g ref="char:EOLhyphen"/>lates to them in ſuch Cuſtodies, untill their iſſuing forth, as it is morally impoſſible they ſhould be counterfeited, ſo as any receiver of them ſhould be deceived, who will but ſatisfie himſelf from what hand they are tendred unto him; which ſaid Bills are perfected under the Seal of the <hi>Com<g ref="char:EOLhyphen"/>pany,</hi> and bind the ſaid <hi>Bank</hi> and <hi>Company</hi> for the value received, and remaining in the ſaid <hi>Bank,</hi> to accept the ſame in any Payment in, or to the ſaid <hi>Bank</hi> for the Summe in ſuch <hi>Bills</hi> mentioned; and are atteſted to be ſo perfected, by the <hi>Treaſurers,</hi> or one of the, as alſo by the <hi>Comptrol<g ref="char:EOLhyphen"/>ler</hi>
+               <pb n="10" facs="tcp:62434:6"/>and <hi>Indenter</hi> of the ſaid <hi>Bills;</hi> beſides which the ſaid <hi>Truſtees,</hi> or two of them, and the <hi>Store-keeper</hi> belonging to the reſpective <hi>Bank-houſes,</hi> out of which the ſaid <hi>Bills</hi> ſhall be firſt iſſued, do alſo teſtifie that the value of the ſaid <hi>Bills</hi> is in the <hi>Bank;</hi> all which <hi>Officers</hi> are upon their Oaths, &amp; give good Security for the honeſt diſcharge of their reſpective Imployments: ſo that no Perſon can hope to make tender of a falſe or counterfeit <hi>Bill,</hi> or one unduely come to his hands, without being detected: in which reſpect the <hi>Bills</hi> are better than the <hi>Species</hi> of <hi>Gold</hi> and <hi>Silver;</hi> for that if you receive counterfeit <hi>Gold</hi> or <hi>Silver,</hi> it hath no certain mark, by which the Payer of it can be ordinari<g ref="char:EOLhyphen"/>ly detected; beſides, they carry with them the Advan<g ref="char:EOLhyphen"/>tage of ſaving Charges in carrying, and time in telling and retelling Money in Payments, and of eaſier and ſafer travelling with them; nor can any of theſe Bills be fraudulently iſſued out of the <hi>Office</hi> it ſelf, for they are all Printed in the <hi>Bank-houſe,</hi> on Paper made on purpoſe, different in ſize, ſhape, and make, from all other ſorts of paper, and as well after Printed, as before, remains un<g ref="char:EOLhyphen"/>cut, and always in ſafe Cuſtody, under three Locks and Keys kept by the <hi>Treaſurers, Seal-keeper,</hi> and <hi>Compoſer</hi> of the ſaid Bills.</p>
+            <p>Queſtion VII.</p>
+            <p>
+               <hi>I have occaſion for Money in Specie, How ſhall I be ſupplyed?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>Though the <hi>Bank</hi> doth only undertake to accept their Bills in Payments to be made unto the <hi>Bank</hi> (which they will do more willingly than Money in <hi>Specie</hi>) tak<g ref="char:EOLhyphen"/>ing
+<pb n="12" facs="tcp:62434:7"/>after the rate of one <hi>per Cent. per Annum</hi> leſs, on re<g ref="char:EOLhyphen"/>turn of the <hi>Bills,</hi> than on payment of Money; yet if any ſhould be deſirous to change his Bills into Money, he may be directed at the <hi>Office</hi> how to be ſupplied.</p>
+            <p>Queſtion VIII.</p>
+            <p>
+               <hi>We have had experience of truſting our Eſtates in</hi> Bankers <hi>hands, how ſhall we be ſecured againſt the like from this</hi> Bank?</p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>You truſted them with Money upon their own or Ser<g ref="char:EOLhyphen"/>vants Notes, apprehending them to be Men of Eſtates to anſwer the <hi>Credit</hi> you gave them; and they traded with your Money beyond the Seas, and otherwiſe on their own Accounts, by means whereof they miſcar<g ref="char:EOLhyphen"/>ried.</p>
+            <p>Now ſuch is the Conſtitution of this <hi>Bank,</hi> that none can wrong it, or the <hi>Depoſitors;</hi> for the <hi>Officers</hi> that give out theſe <hi>Bills</hi> are all on their <hi>Oaths,</hi> and give great Se<g ref="char:EOLhyphen"/>curity to deliver out no <hi>Bills of Credit,</hi> but upon ſuch <hi>Fund</hi> of <hi>Goods,</hi> or real <hi>Eſtates,</hi> to the value aforeſaid, as always remains untouched, till <hi>Bank-bills</hi> of <hi>Credit,</hi> or other <hi>Fund</hi> be brought in the room of it; all which remaining lockt up in <hi>Treaſuries</hi> and <hi>Store-houſes;</hi> the Keys where<g ref="char:EOLhyphen"/>of are in the Hands and Cuſtody of the chief Governours, their <hi>Treaſurers</hi> &amp; <hi>Truſtees, Store-keepers</hi> and others. It can<g ref="char:EOLhyphen"/>not but be acknowledg'd by every one, that they are ſafer Cuſtody than in his own Houſe, where his Servants, or (which is alſo very ordinary) his <hi>Wine-Cooper, Porter,</hi> or other mean Perſon, hath, or can come at the Keys of his
+<pb n="13" facs="tcp:62434:7"/>
+               <hi>Warehouſes,</hi> or <hi>Cellars;</hi> eſpecially if it be conſiderd, that they are conſtantly watched, both Night and Day, by Per<g ref="char:EOLhyphen"/>ſons appointed for that purpoſe, to prevent Imbezelments, Diminutions, or Caſualties that may happen.</p>
+            <p>The <hi>Intereſt</hi> of the Perſons chiefly intruſted in this <hi>Bank,</hi> conſiſts in preſerving their <hi>Credit,</hi> which upon their firſt attempt of any fraudulent Practices, or giving out of any <hi>Bills</hi> but upon ſuch <hi>Fund,</hi> as is aforementioned, will irreparably be loſt.</p>
+         </div>
+         <div type="note">
+            <head>Advertiſement.</head>
+            <p>Whereas the pooreſt ſort of People do generally com<g ref="char:EOLhyphen"/>plain of great Oppreſſion by intollerable exactions for <hi>Credit</hi> given them upon their Goods, whereby they are ſo exhauſted and diſabled, that they cannot by reaſon thereof, though never ſo induſtrious, gain a comfortable Livelihood for themſelves and Families. For whoſe re<g ref="char:EOLhyphen"/>lief no effectual Remedy hath been hitherto propoſed. The Governours of the ſaid <hi>Bank</hi> of <hi>Credit</hi> having taken the ſame into conſideration, and commiſerating the ne<g ref="char:EOLhyphen"/>ceſſitous Condition of ſuch poor People, are reſolved ſpeedily to make proviſion for their ſupply with <hi>Bank-Credit,</hi> and that the <hi>Intereſt</hi> and <hi>Charges</hi> thereof ſhall not exceed ſix pounds per <hi>Cent. per Annum.</hi> The Places where, and Time when ſuch Perſons may be ſo acco<g ref="char:EOLhyphen"/>modated, with ſhortly be Publiſhed. As alſo the Rules and Methods they intend to eſtabliſh about the Exchange of Money.</p>
+            <p>
+               <pb n="14" facs="tcp:62434:8"/>And that all men who are deſirous to increaſe their Trades, by the <hi>Credit</hi> of this <hi>Bank,</hi> or ſtand in need thereof, may know where they may be ſupplied with ſuch <hi>Credit</hi> upon the Depoſiting of any Goods, Wares, or Mer<g ref="char:EOLhyphen"/>chandizes, the Governours of the ſaid <hi>Bank</hi> do hereby ſignifie that their <hi>Truſtees, Appraiſers, Store-keepers,</hi> and other Officers, ſhall dayly attend from, the time, and at the Places, of which publick notice ſhall be ſpeedily given.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62434:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
